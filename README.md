@@ -27,3 +27,4 @@ In this particular case of joining 4 tables, CDS is clear winner followed by ope
 
 Best Regards,
 archer4sap@gmail.com 
+http://www.archer4sap.com
